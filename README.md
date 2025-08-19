@@ -1,7 +1,7 @@
 # Parallax
 
 
--[Demo Project](https://shop-orpin-two.vercel.app/) 
+-[Demo Project](https://ghazalehnezamghadiri.github.io/Parallax2/) 
 
 -Developed by Ghazaleh Nezamghadiri
 
