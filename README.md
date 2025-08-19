@@ -1,6 +1,5 @@
 # Parallax
 
-# Shop
 
 -[Demo Project](https://shop-orpin-two.vercel.app/) 
 
